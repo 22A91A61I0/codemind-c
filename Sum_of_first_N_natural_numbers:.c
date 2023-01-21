@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int n,sum;
+    int n,a;
     scanf("%d",&n);
-    sum=n*(n+1)/2;
-    printf("%d",sum);
+    a=n*(n+1)/2;
+    printf("%d",a);
 }
